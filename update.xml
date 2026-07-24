@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-	<version>1.0.17</version>
+	<version>1.0.18</version>
 	<url>https://github.com/toikbietcode/PcPos-Update/releases/download/v1.0.3/publish_update.zip</url>
 	<changelog>cap nhat</changelog>
 	<mandatory>false</mandatory>
