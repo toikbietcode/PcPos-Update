@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-	<version>1.1.15</version>
+	<version>1.1.16</version>
 	<url>https://github.com/toikbietcode/PcPos-Update/releases/download/v1.0.3/publish_update.zip</url>
 	<changelog>cap nhat</changelog>
-	<mandatory minVersion="1.1.14">false</mandatory>
-	<checksum algorithm="SHA256">59d24471d2600630c7ac4e192855367831324148b2ccbc87e29a8b6abf6ece3f</checksum>
+	<mandatory minVersion="1.1.15">false</mandatory>
+	<checksum algorithm="SHA256">428c0073ab31168f3df83166d7544a5f6dcacf06f0de15a7edd305ab327a7220</checksum>
 </item>
